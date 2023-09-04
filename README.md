@@ -17,7 +17,8 @@ This portfolio page template is designed for web developers and open-source enth
 
 ## Preview
 
-![Portfolio Preview](insert-your-image-url-here)
+![Portfolio Preview]![image](https://github.com/Mohammed20037/profile-page-template/assets/113844625/63a30125-9749-41c0-acd5-a08aead3c2e0)
+
 
 You can preview the template by visiting [Portfolio Preview](insert-your-website-url-here).
 
